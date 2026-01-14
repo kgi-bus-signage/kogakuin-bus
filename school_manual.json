@@ -12,7 +12,10 @@
             "jr-hachioji": {
                 "stop": "JR八王子駅南口行",
                 "name": "",
-                "timetable": {}
+                "timetable": {
+                    "15": ["45③", "50京"],
+                    "16": ["00京", "15京", "45"]
+                }
             },
             "keio-hachioji": {
                 "stop": "京王八王子行",
