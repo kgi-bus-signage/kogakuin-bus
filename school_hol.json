@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "descriptions": [
+            "京：京王八王子経由",
+            "京JR：京王八王子・JR八王子南口経由",
+            "②：２台同時",
+            "③：３台同時"
+        ]
+    },
+    "routes": {
+        "jr-hachioji": {
+            "stop": "JR八王子駅南口行",
+            "name": "",
+            "timetable": []
+        },
+        "keio-hachioji": {
+            "stop": "京王八王子行",
+            "name": "",
+            "timetable": []
+        },
+        "minamiosawa": {
+            "stop": "南大沢行",
+            "name": "",
+            "timetable": []
+        },
+        "haijima": {
+            "stop": "拝島行",
+            "name": "",
+            "timetable": []
+        }
+    }
+}
